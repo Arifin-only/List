@@ -2,8 +2,7 @@
    var nama = <String>[];
 
    nama.add('Muhammad');
-   nama.add('Alfianor');
-   nama.add('Fitri');
+   nama.add('Arifin');
 
    print(nama);
    print(nama.length);
