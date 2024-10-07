@@ -3,6 +3,7 @@
 
    nama.add('Muhammad');
    nama.add('Arifin');
+   nama.add('Ilham');
 
    print(nama);
    print(nama.length);
